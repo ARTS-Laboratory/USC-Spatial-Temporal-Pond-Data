@@ -14,7 +14,12 @@ Figure 1: Pond at USC.
 
 
 
-
+<p align="center">
+<img src="media/pond.png" alt="drawing" width="600"/>
+</p>
+<p align="center">
+Figure 2: Sampling Points Across The Pond at USC.
+</p>
 
 
 
