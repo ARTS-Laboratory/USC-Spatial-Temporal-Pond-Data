@@ -24,6 +24,14 @@ Figure 2: Sampling Points Across The Pond at USC.
 
 
 
+<p align="center">
+<img src="media/pond_merge.png" alt="drawing" width="600"/>
+</p>
+<p align="center">
+Figure 3: (a) The sensor package collecting data, (b) Pond at USC, (c) The inlet of the pond, (d) The pond’s outlet.
+</p>
+
+
 
 
 
