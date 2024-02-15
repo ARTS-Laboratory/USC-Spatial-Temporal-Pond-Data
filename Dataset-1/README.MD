@@ -8,7 +8,7 @@ The dataset includes:
 # 1. 11/9/2023.
 
 <p align="center">
-<img src="media/krigePlots.png" alt="drawing" width="600"/>
+<img src="media/KrigePlots.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
 Figure 1: Data Across The Pond on 11/9/2023.
