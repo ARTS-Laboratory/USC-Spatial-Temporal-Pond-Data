@@ -1,8 +1,6 @@
-## The datasets include:
+## Dataset-1
 
-## 1. Water quality parameters (pH, TDS, Turbidity, and Temperature) at nine locations throughout a stationary pond at USC.
-## 2. Kriging Data.
-## 3. USGS data on the testing day.
+The datasets include water quality parameters (pH, TDS, Turbidity, and Temperature) at nine locations throughout the pond at USC and USGS data on the testing day.
 
 ## Datasets:
 
