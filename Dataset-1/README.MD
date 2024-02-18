@@ -4,7 +4,7 @@ The datasets include water quality parameters (pH, TDS, Turbidity, and Temperatu
 
 ## Datasets:
 
-# 1. 11/9/2023.
+### 1. 11/9/2023.
 
 <p align="center">
 <img src="media/KrigePlots.png" alt="drawing" width="700"/>
@@ -13,7 +13,7 @@ The datasets include water quality parameters (pH, TDS, Turbidity, and Temperatu
 Figure 1: Data Across The Pond on 11/9/2023.
 </p>
 
-# 2. 12/21/2023.
+### 2. 12/21/2023.
 <p align="center">
 <img src="media/kriging_plot.png" alt="drawing" width="700"/>
 </p>
