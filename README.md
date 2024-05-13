@@ -43,7 +43,7 @@ Cite this as:
 @Misc{ARTSLabUscSpatialTemporal,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
-  title  = {{USC}-Spatial-Temporal-Pond-Data},
+  title  = {{USC}-Spatial-Temporal-Pond-Data},  
   groups = {ARTS-Lab},    
   url    = {https://https://github.com/ARTS-Laboratory/USC-Spatial-Temporal-Pond-Data},   
 }
