@@ -18,7 +18,7 @@ Figure 1: Pond at USC.
 <img src="media/pond.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
-Figure 2: Sampling Points Across The Pond at USC.
+Figure 2: Sampling points across The pond at USC.
 </p>
 
 
@@ -28,7 +28,7 @@ Figure 2: Sampling Points Across The Pond at USC.
 <img src="media/pond_merge.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
-Figure 3: (a) The sensor package collecting data, (b) Pond at USC, (c) The inlet of the pond, (d) The pond’s outlet.
+Figure 3: The monitored USC pond, showing: (a) the sensor package collecting data, (b) the pond at USC, (c) the inlet of the pond, (d) the pond’s outlet.
 </p>
 
 ## Licensing and Citation
