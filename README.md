@@ -31,6 +31,23 @@ Figure 2: Sampling Points Across The Pond at USC.
 Figure 3: (a) The sensor package collecting data, (b) Pond at USC, (c) The inlet of the pond, (d) The pond’s outlet.
 </p>
 
+## Licensing and Citation
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License [cc-by-sa 4.0].
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+Cite this as: 
+
+@Misc{ARTSLabUscSpatialTemporal,    
+  author = {ARTS-Lab},  
+  howpublished = {GitHub},  
+  title  = {{USC}-Spatial-Temporal-Pond-Data},
+  groups = {ARTS-Lab},    
+  url    = {https://https://github.com/ARTS-Laboratory/USC-Spatial-Temporal-Pond-Data},   
+}
+
 
 
 
